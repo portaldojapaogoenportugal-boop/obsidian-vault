@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779101981533-tpg1jsatw",
+  "providerId": "claude",
+  "title": "Organize Japanese honorific language notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779101981545,
+  "updatedAt": 1779438051662,
+  "lastResponseAt": 1779438045807,
+  "sessionId": "f5279dd8-df2e-4104-98c1-811c5d36e030",
+  "providerState": {
+    "providerSessionId": "f5279dd8-df2e-4104-98c1-811c5d36e030"
+  },
+  "currentNote": "02_日本語授業/日本語文法/敬語ー尊敬語の分類.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 859,
+    "cacheReadInputTokens": 146254,
+    "contextWindow": 200000,
+    "contextTokens": 147116,
+    "percentage": 74,
+    "contextWindowIsAuthoritative": true
+  }
+}

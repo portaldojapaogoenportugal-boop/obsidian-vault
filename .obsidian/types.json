@@ -1,0 +1,10 @@
+{
+  "types": {
+    "2026": "date",
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "--- tags:   - 日本語文法   - 敬語   - 尊敬語 date: 2026-05-22 status: 完成 level: 中級 ---": "multitext",
+    "date": "date"
+  }
+}

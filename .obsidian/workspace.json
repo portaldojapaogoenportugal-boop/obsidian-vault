@@ -1,0 +1,700 @@
+{
+  "main": {
+    "id": "a7d984dbcd2d36c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "de663465b88ce823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0da28bb61cd3486b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ようこそ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ようこそ"
+            }
+          },
+          {
+            "id": "ffe2c171901d3c8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_日本語授業/日本語文法/「見たい」vs「見てみたい」の違い.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "「見たい」vs「見てみたい」の違い"
+            }
+          },
+          {
+            "id": "be930a73842c1821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_日本語授業/日本語文法/「見たい」vs「見てみたい」の違い.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "「見たい」vs「見てみたい」の違い"
+            }
+          },
+          {
+            "id": "b4cb9c480686e93d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 1 – Preparativos para a viagem（旅行の準備）/Lição 1 – Cumprimentar e despedir-se（あいさつと別れの言葉）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 1 – Cumprimentar e despedir-se（あいさつと別れの言葉）"
+            }
+          },
+          {
+            "id": "c6b17e042911e91d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 1 – Preparativos para a viagem（旅行の準備）/Lição 2 – Agradecer e pedir desculpa（お礼とお詫び）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 2 – Agradecer e pedir desculpa（お礼とお詫び）"
+            }
+          },
+          {
+            "id": "cf3906ca13ae5f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 1 – Preparativos para a viagem（旅行の準備）/Lição 3 – Apresentar-se（自己紹介する）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 3 – Apresentar-se（自己紹介する）"
+            }
+          },
+          {
+            "id": "3d58f0187ece7b7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 2 – Chegada a Portugal（ポルトガル到着）/Lição 1 – No controlo de passaportes（入国審査で）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 1 – No controlo de passaportes（入国審査で）"
+            }
+          },
+          {
+            "id": "a63eb16a3b43b833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 2 – Chegada a Portugal（ポルトガル到着）/Lição 2 – No aeroporto（空港の中で）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 2 – No aeroporto（空港の中で）"
+            }
+          },
+          {
+            "id": "b3c5b19238e19aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 2 – Chegada a Portugal（ポルトガル到着）/Lição 3 – A sair do aeroporto（空港を出る）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 3 – A sair do aeroporto（空港を出る）"
+            }
+          },
+          {
+            "id": "54d1dd0c12875bf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 2 – Chegada a Portugal（ポルトガル到着）/Lição 3 – A sair do aeroporto（空港を出る）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 3 – A sair do aeroporto（空港を出る）"
+            }
+          },
+          {
+            "id": "1e99818fa4e3fa99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 3 – No hotel（ホテルで）/Lição 1 – Check-in（チェックイン）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 1 – Check-in（チェックイン）"
+            }
+          },
+          {
+            "id": "6041b601363ba8d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 3 – No hotel（ホテルで）/Lição 2 – No quarto（部屋で）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 2 – No quarto（部屋で）"
+            }
+          },
+          {
+            "id": "6223c2e6cc0cb3b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 3 – No hotel（ホテルで）/Lição 3 – O pequeno-almoço（朝食）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 3 – O pequeno-almoço（朝食）"
+            }
+          },
+          {
+            "id": "7f0f0533c21e2380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 3 – No hotel（ホテルで）/Lição 4 – Check-out（チェックアウト）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 4 – Check-out（チェックアウト）"
+            }
+          },
+          {
+            "id": "fa133aec5a7567cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 4 – Deslocar-se e visitar（移動と観光）/Lição 1 – Na estação（駅で）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 1 – Na estação（駅で）"
+            }
+          },
+          {
+            "id": "08d455ff047b3669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 4 – Deslocar-se e visitar（移動と観光）/Lição 2 – No transporte público（公共交通の中で）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 2 – No transporte público（公共交通の中で）"
+            }
+          },
+          {
+            "id": "be1bd9f1b58aa40d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 4 – Deslocar-se e visitar（移動と観光）/Lição 3 – A pedir informações na rua（道を尋ねる）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 3 – A pedir informações na rua（道を尋ねる）"
+            }
+          },
+          {
+            "id": "1d6c1eb18887d4f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 4 – Deslocar-se e visitar（移動と観光）/Lição 4 – Na visita turística（観光地で）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 4 – Na visita turística（観光地で）"
+            }
+          },
+          {
+            "id": "ceb9c2aa1011c076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 4 – Deslocar-se e visitar（移動と観光）/Lição 5 – Ir ver um jogo de futebol（サッカー観戦に行く）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 5 – Ir ver um jogo de futebol（サッカー観戦に行く）"
+            }
+          },
+          {
+            "id": "dbcdf38c2469ebc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 5 – Comer e beber（食べる・飲む）/Lição 1 – No café（カフェで）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 1 – No café（カフェで）"
+            }
+          },
+          {
+            "id": "9035eef335a04958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 5 – Comer e beber（食べる・飲む）/Lição 2 – No restaurante（レストランで） – Versão completa com NIF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 2 – No restaurante（レストランで） – Versão completa com NIF"
+            }
+          },
+          {
+            "id": "603fbae95c15b010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 5 – Comer e beber（食べる・飲む）/Lição 3 – No supermercado（スーパーで）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 3 – No supermercado（スーパーで）"
+            }
+          },
+          {
+            "id": "4ab3867e100ba918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 5 – Comer e beber（食べる・飲む）/Lição 4 – A comprar lembranças（おみやげを買う）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 4 – A comprar lembranças（おみやげを買う）"
+            }
+          },
+          {
+            "id": "61b5aac281e2bf92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 6 – Outras situações（その他の場面）/Lição 1 – No correio（郵便局で）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 1 – No correio（郵便局で）"
+            }
+          },
+          {
+            "id": "37a77a851796e168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 6 – Outras situações（その他の場面）/Lição 2 – No câmbio（両替所で）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 2 – No câmbio（両替所で）"
+            }
+          },
+          {
+            "id": "b4cf8c51cf4b5e84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 6 – Outras situações（その他の場面）/Lição 3 – Na farmácia（薬局で）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 3 – Na farmácia（薬局で）"
+            }
+          },
+          {
+            "id": "1b196f53147ba990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 6 – Outras situações（その他の場面）/Lição 4 – Na polícia（警察で）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 4 – Na polícia（警察で）"
+            }
+          },
+          {
+            "id": "c9f1e048789d2659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ようこそ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ようこそ"
+            }
+          },
+          {
+            "id": "6b3611c7b5eaf555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/ANEXO/A. 国名・国籍・言語.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A. 国名・国籍・言語"
+            }
+          },
+          {
+            "id": "cda6034e6676c07d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/ANEXO/B. 職業.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B. 職業"
+            }
+          },
+          {
+            "id": "ad8efaba31819e0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/ANEXO/C. 規則動詞の活用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C. 規則動詞の活用"
+            }
+          },
+          {
+            "id": "cf1782e47a6d18ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/ANEXO/D. 乗り物.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "D. 乗り物"
+            }
+          },
+          {
+            "id": "de1d28f0bcdbd66f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 3 – No hotel（ホテルで）/Lição 4 – Check-out（チェックアウト）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 4 – Check-out（チェックアウト）"
+            }
+          },
+          {
+            "id": "7b88662db4e778fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_日本語授業/日本語文法/敬語ー尊敬語の分類.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "敬語ー尊敬語の分類"
+            }
+          }
+        ],
+        "currentTab": 33
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fe9a78e20d2440a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c181b16b17e24066",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d3b55fc8e1cb340",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "68d3f5b61ab8a1ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "8539fd8f14ebe154",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e042a0dd48ea0fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a373f9c68bd17278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6b2255f134339da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ようこそ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ようこそへのバックリンク"
+            }
+          },
+          {
+            "id": "d7c2cd961445570b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ようこそ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ようこそからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "6c9a0441a92392ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "c8645c3b59e465aa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "52188defed08140b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ようこそ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ようこそのアウトライン"
+            }
+          },
+          {
+            "id": "d943bba129296c5c",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false,
+      "obsidian42-brat:BRAT": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "d943bba129296c5c",
+  "lastOpenFiles": [
+    "02_日本語授業/日本語文法/敬語ー尊敬語の分類.md.tmp.12052.9e36c6326212",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 3 – No hotel（ホテルで）/Lição 4 – Check-out（チェックアウト）.md",
+    "02_日本語授業/日本語文法/敬語ー尊敬語の分類.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 3 – No hotel（ホテルで）/Lição 3 – O pequeno-almoço（朝食）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 3 – No hotel（ホテルで）/Lição 2 – No quarto（部屋で）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 2 – Chegada a Portugal（ポルトガル到着）/Lição 1 – No controlo de passaportes（入国審査で）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 2 – Chegada a Portugal（ポルトガル到着）/Lição 4 – No táxi（タクシーで）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 4 – Deslocar-se e visitar（移動と観光）/Lição 1 – Na estação（駅で）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 1 – Preparativos para a viagem（旅行の準備）/Lição 2 – Agradecer e pedir desculpa（お礼とお詫び）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 1 – Preparativos para a viagem（旅行の準備）/Lição 1 – Cumprimentar e despedir-se（あいさつと別れの言葉）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 3 – No hotel（ホテルで）/Lição 1 – Check-in（チェックイン）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 2 – Chegada a Portugal（ポルトガル到着）/Lição 3 – A sair do aeroporto（空港を出る）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 2 – Chegada a Portugal（ポルトガル到着）/Lição 2 – No aeroporto（空港の中で）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 1 – Preparativos para a viagem（旅行の準備）/Lição 3 – Apresentar-se（自己紹介する）.md",
+    "01_ポルトガル語テキスト/旅行編/ANEXO/E. 数字.md",
+    "01_ポルトガル語テキスト/旅行編/ANEXO/D. 乗り物.md",
+    "01_ポルトガル語テキスト/旅行編/ANEXO/C. 規則動詞の活用.md",
+    "01_ポルトガル語テキスト/旅行編/ANEXO/B. 職業.md",
+    "01_ポルトガル語テキスト/旅行編/ANEXO/A. 国名・国籍・言語.md",
+    "ようこそ.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 6 – Outras situações（その他の場面）/Lição 5 – No aeroporto（空港で）.md",
+    "無題のフォルダ 2",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 6 – Outras situações（その他の場面）/Lição 4 – Na polícia（警察で）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 6 – Outras situações（その他の場面）/Lição 3 – Na farmácia（薬局で）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 6 – Outras situações（その他の場面）/Lição 2 – No câmbio（両替所で）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 6 – Outras situações（その他の場面）/Lição 1 – No correio（郵便局で）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 5 – Comer e beber（食べる・飲む）/Lição 4 – A comprar lembranças（おみやげを買う）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 6 – Outras situações（その他の場面）",
+    "01_ポルトガル語テキスト/旅行編/ANEXO",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 5 – Comer e beber（食べる・飲む）",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 2 – Chegada a Portugal（ポルトガル到着）",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 4 – Deslocar-se e visitar（移動と観光）",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 1 – Preparativos para a viagem（旅行の準備）",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 3 – No hotel（ホテルで）",
+    "01_ポルトガル語テキスト/旅行編",
+    "ようこそ.md.tmp.13972.738babbfa300"
+  ]
+}

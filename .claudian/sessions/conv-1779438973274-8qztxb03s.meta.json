@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779438973274-8qztxb03s",
+  "providerId": "claude",
+  "title": "Organize honorific language notebook",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779438973283,
+  "updatedAt": 1779439156109,
+  "lastResponseAt": 1779439156109,
+  "sessionId": "9ba5f24b-5648-4dc6-b7da-24e6528e6760",
+  "providerState": {
+    "providerSessionId": "9ba5f24b-5648-4dc6-b7da-24e6528e6760"
+  },
+  "currentNote": "02_日本語授業/日本語文法/敬語ー尊敬語の分類.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 372,
+    "cacheReadInputTokens": 21018,
+    "contextWindow": 200000,
+    "contextTokens": 21393,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}
