@@ -13,7 +13,7 @@ date: 2026-05-25
 
 | 用法                      | 日本語       | PT-PT 構造                |
 | ----------------------- | --------- | ----------------------- |
-| **進行中** (Progressivo)   | 〜していた     | *estava a* + infinitivo |
+| **進行中** (Progressivo)   | 〜していた     | *imperfeito* の継続的動詞（例：*andar*, *viajar*） |
 | **完了** (Anterioridade)  | すでに〜していた  | *já tinha* + particípio |
 | **反事実** (Contrafactual) | 〜していた（のに） | *teria* + particípio    |
 
@@ -24,7 +24,7 @@ date: 2026-05-25
 **① 進行中**
 > 私は昨日、飛行機に乗っていた。
 
-*Ontem, eu estava a apanhar o avião.*
+*Ontem, eu andava de avião.*
 
 ---
 
@@ -46,6 +46,12 @@ date: 2026-05-25
 
 | 用法 | PT-PT の時制 |
 |---|---|
-| 進行中 | **Pretérito imperfeito** de *estar* ＋ *a* ＋ infinitivo |
+| 進行中 | **Pretérito imperfeito** の継続的動詞（*estava a* + infinitivo は点的動詞には不可） |
 | 完了（Anterioridade） | **Pretérito mais-que-perfeito composto** (*tinha* ＋ particípio) |
 | 反事実 | 条件節：*se* ＋ **conjuntivo mais-que-perfeito** / 帰結節：**condicional composto** (*teria* ＋ particípio) |
+
+---
+
+## 関連ノート
+
+- [[完了の用語整理（PT-PT）]]
