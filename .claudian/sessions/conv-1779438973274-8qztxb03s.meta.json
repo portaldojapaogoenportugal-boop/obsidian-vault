@@ -4,20 +4,20 @@
   "title": "Organize honorific language notebook",
   "titleGenerationStatus": "success",
   "createdAt": 1779438973283,
-  "updatedAt": 1779728678772,
-  "lastResponseAt": 1779728678772,
+  "updatedAt": 1779729180044,
+  "lastResponseAt": 1779729180044,
   "sessionId": "9ba5f24b-5648-4dc6-b7da-24e6528e6760",
   "providerState": {
     "providerSessionId": "9ba5f24b-5648-4dc6-b7da-24e6528e6760"
   },
   "usage": {
     "model": "sonnet",
-    "inputTokens": 1,
-    "cacheCreationInputTokens": 813,
-    "cacheReadInputTokens": 57489,
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 895,
+    "cacheReadInputTokens": 58376,
     "contextWindow": 200000,
-    "contextTokens": 58303,
-    "percentage": 29,
+    "contextTokens": 59274,
+    "percentage": 30,
     "contextWindowIsAuthoritative": true
   }
 }
