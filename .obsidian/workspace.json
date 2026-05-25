@@ -643,7 +643,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -659,7 +659,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d943bba129296c5c",
+  "active": "7b88662db4e778fc",
   "lastOpenFiles": [
     "02_日本語授業/日本語文法/「Vテ＋いた」の用法.md.tmp.22876.18f92be48762",
     "02_日本語授業/日本語文法/「Vテ＋いた」の用法.md.tmp.22876.746b7540ba20",
