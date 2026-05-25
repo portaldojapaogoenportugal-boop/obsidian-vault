@@ -52,6 +52,21 @@ date: 2026-05-25
 
 ---
 
+## 補足：反事実の帰結節 — `teria` vs `tinha`
+
+| | **teria apanhado** | **tinha apanhado** |
+|---|---|---|
+| **文法名** | Condicional composto | Mais-que-perfeito composto（口語的条件用法） |
+| **レジスター** | 書き言葉・フォーマル・規範形 ✅ | 話し言葉・口語・PT-PT で広く使われる △ |
+
+> *Se ele não tivesse telefonado, eu **teria** apanhado o avião.* — フォーマル
+> *Se ele não tivesse telefonado, eu **tinha** apanhado o avião.* — 口語・自然
+
+- PT-PT の話し言葉では `teria` より `tinha` の方が自然に聞こえることも多い
+- 条件節（`se` 節）の `tivesse` は口語でもほぼそのまま保たれる
+
+---
+
 ## 補足：`andava` vs `estava a andar`
 
 進行中の表現として、どちらも使えるが意味に違いがある。
