@@ -475,12 +475,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "税金/e-fatura・IVA遅延メモ.md",
+                "file": "税金/健康保険料控除とAnexo H.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "e-fatura・IVA遅延メモ"
+              "title": "健康保険料控除とAnexo H"
             }
           }
         ],
@@ -661,10 +661,12 @@
   },
   "active": "7b88662db4e778fc",
   "lastOpenFiles": [
-    "税金/日葡税務_根拠条文まとめ.md",
-    "税金/ポルトガルIRS_年金と控除メモ.md",
+    "税金/7月末決算_年間提出期限一覧.md",
     "税金/CIRS第23条 海外所得・費用のユーロ換算.md",
     "税金/e-fatura・IVA遅延メモ.md",
+    "税金/健康保険料控除とAnexo H.md",
+    "税金/日葡税務_根拠条文まとめ.md",
+    "税金/ポルトガルIRS_年金と控除メモ.md",
     "02_日本語授業/日本語文法/敬語ー尊敬語の分類.md",
     "02_日本語授業/日本語文法/敬語ー謙譲語「申す」と「申し上げる」.md",
     "ブログ/その努力、報われる？ ― ポルトガルU-14サッカー地区選抜大会.md",
@@ -694,8 +696,6 @@
     "02_日本語授業/日本語文法/「見たい」vs「見てみたい」の違い.md",
     "01_ポルトガル語テキスト/旅行編/Capítulo 3 – No hotel（ホテルで）/Lição 3 – O pequeno-almoço（朝食）.md",
     "01_ポルトガル語テキスト/旅行編/Capítulo 3 – No hotel（ホテルで）/Lição 2 – No quarto（部屋で）.md",
-    "01_ポルトガル語テキスト/旅行編/Capítulo 2 – Chegada a Portugal（ポルトガル到着）/Lição 1 – No controlo de passaportes（入国審査で）.md",
-    "01_ポルトガル語テキスト/旅行編/Capítulo 2 – Chegada a Portugal（ポルトガル到着）/Lição 4 – No táxi（タクシーで）.md",
-    "01_ポルトガル語テキスト/旅行編/Capítulo 4 – Deslocar-se e visitar（移動と観光）/Lição 1 – Na estação（駅で）.md"
+    "01_ポルトガル語テキスト/旅行編/Capítulo 2 – Chegada a Portugal（ポルトガル到着）/Lição 1 – No controlo de passaportes（入国審査で）.md"
   ]
 }
