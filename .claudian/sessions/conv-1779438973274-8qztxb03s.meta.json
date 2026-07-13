@@ -4,9 +4,10 @@
   "title": "Organize honorific language notebook",
   "titleGenerationStatus": "success",
   "createdAt": 1779438973283,
-  "updatedAt": 1783071774077,
+  "updatedAt": 1783950812183,
   "lastResponseAt": 1781877067740,
   "sessionId": "9ba5f24b-5648-4dc6-b7da-24e6528e6760",
+  "selectedModel": "sonnet",
   "providerState": {
     "providerSessionId": "9ba5f24b-5648-4dc6-b7da-24e6528e6760"
   },
