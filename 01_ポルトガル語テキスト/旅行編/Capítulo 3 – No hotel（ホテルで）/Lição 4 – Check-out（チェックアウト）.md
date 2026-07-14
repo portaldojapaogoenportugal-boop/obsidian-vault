@@ -24,11 +24,24 @@
 | **fazer**                 | faˈzeɾ    | ファゼール    | する／作る     | to do, to make        |
 | **check-out**             | ˈtʃek awt | チェックアウト  | チェックアウト   | check-out             |
 | **certo**                 | ˈseɾtu    | セルトゥ     | 正しい／確かな   | correct/certain       |
+| **pagar**                 |           |          |           |                       |
+| **cartão**                |           |          |           |                       |
+| **deixar**                |           |          |           |                       |
+| **bagagem**               |           |          |           |                       |
+| **algum**                 |           |          |           |                       |
+| **hora**                  |           |          |           |                       |
+|                           |           |          |           |                       |
+|                           |           |          |           |                       |
 | **problema**              | pɾuˈblema | プルブレマ    | 問題        | problem               |
 | **volto**                 | ˈvoltu    | ヴォルトゥ    | 戻ります      | I return/I'll be back |
 | **mais**                  | ˈmajʃ     | マイシュ     | もっと／より    | more                  |
 | **tarde**                 | ˈtaɾde    | タルデ      | 後で        | later                 |
 | **viagem**                | viˈaʒẽ    | ヴィアジェン   | 旅行        | trip/ journey         |
+
+
+
+
+
 
 ### 🔑 Expressões importantes – よく使う表現
 
@@ -79,7 +92,7 @@
 
 #### 2. 前置詞comの用法
 
-comは第3課で触れた様態を表すestar comのほか、手段を表すのにも使われます。ここでは、支払手段として、現金ではなくカードｄ
+comは第3課で触れた様態を表すestar comのほか、手段を表すのにも使われます。ここでは、支払手段として、現金ではなくカードでも
 
 1️⃣ 動詞 deixar（置く・預ける）  
 Posso deixar a bagagem aqui?（荷物をここに置いていってもいいですか？）  
