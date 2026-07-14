@@ -77,7 +77,7 @@
 
 #### 2. 前置詞comの用法
 
-
+comは第3課で触れたestar comのほか、
 
 1️⃣ 動詞 deixar（置く・預ける）  
 Posso deixar a bagagem aqui?（荷物をここに置いていってもいいですか？）  
