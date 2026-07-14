@@ -18,24 +18,25 @@
 
 ### Vocabulário – 新しい語彙
 
-| **ポルトガル語**                | **発音**     | **カタカナ** | **日本語訳**   | **英語訳**               |
-| ------------------------- | ---------- | -------- | ---------- | --------------------- |
-| **quero（動詞quererの一人称単数）** | ˈkeɾu      | ケル       | 〜がしたい／欲しい  | I want                |
-| **fazer**                 | faˈzeɾ     | ファゼール    | する／作る      | to do, to make        |
-| **check-out**             | ˈtʃek awt  | チェックアウト  | チェックアウト    | check-out             |
-| **certo**                 | ˈseɾtu     | セルトゥ     | 正しい／確かな    | correct/certain       |
-| **pagar**                 | paˈɣaɾ     | パガール     | 払う         | to pay                |
-| **cartão**                | kɐɾˈtɐ̃w̃  | カルタォン    | カード        | card                  |
-| **deixar**                | dɐjˈʃaɾ    | ダイシャール   | 置く／預ける     | to leave/to let       |
-| **bagagem**               | bɐˈɣaʒɐ̃j̃ | バガージェン   | 荷物         | luggage/baggage       |
-| **algum**                 | aɫˈgũ      | アルグン     | いくつかの／何らかの | some/any              |
-| **hora**                  | ˈɔɾɐ       | オラ       | 時間         | hour                  |
-| **sem**                   | sɐ̃j̃      | セン       | 〜なしで       | without               |
-| **problema**              | pɾuˈblema  | プルブレマ    | 問題         | problem               |
-| **volto**                 | ˈvoltu     | ヴォルトゥ    | 戻ります       | I return/I'll be back |
-| **mais**                  | ˈmajʃ      | マイシュ     | もっと／より     | more                  |
-| **tarde**                 | ˈtaɾde     | タルデ      | 後で         | later                 |
-| **viagem**                | viˈaʒẽ     | ヴィアジェン   | 旅行         | trip/ journey         |
+| **ポルトガル語**                | **発音**     | **カタカナ** | **日本語訳**   | **英語訳**               |     |
+| ------------------------- | ---------- | -------- | ---------- | --------------------- | --- |
+| **quero（動詞quererの一人称単数）** | ˈkeɾu      | ケル       | 〜がしたい／欲しい  | I want                |     |
+| **fazer**                 | faˈzeɾ     | ファゼール    | する／作る      | to do, to make        |     |
+| **check-out**             | ˈtʃek awt  | チェックアウト  | チェックアウト    | check-out             |     |
+| **certo**                 | ˈseɾtu     | セルトゥ     | 正しい／確かな    | correct/certain       |     |
+| **pagar**                 | paˈɣaɾ     | パガール     | 払う         | to pay                |     |
+| **cartão**                | kɐɾˈtɐ̃w̃  | カルタォン    | カード        | card                  |     |
+| **deixar**                | dɐjˈʃaɾ    | ダイシャール   | 置く／預ける     | to leave/to let       |     |
+| **bagagem**               | bɐˈɣaʒɐ̃j̃ | バガージェン   | 荷物         | luggage/baggage       | (1) |
+| **algum**                 | aɫˈgũ      | アルグン     | いくつかの／何らかの | some/any              |     |
+| **hora**                  | ˈɔɾɐ       | オラ       | 時間         | hour                  |     |
+| **sem**                   | sɐ̃j̃      | セン       | 〜なしで       | without               |     |
+| **problema**              | pɾuˈblema  | プルブレマ    | 問題         | problem               |     |
+| **volto**                 | ˈvoltu     | ヴォルトゥ    | 戻ります       | I return/I'll be back |     |
+| **mais**                  | ˈmajʃ      | マイシュ     | もっと／より     | more                  |     |
+| **tarde**                 | ˈtaɾde     | タルデ      | 後で         | later                 |     |
+| **viagem**                | viˈaʒẽ     | ヴィアジェン   | 旅行         | trip/ journey         |     |
+(1) 単数集合名詞
 
 ### 🔑 Expressões importantes – よく使う表現
 
@@ -128,15 +129,9 @@ Boa viagem!（よい旅を！）
 Posso pagar...? / Posso deixar...?  
 💬 依頼や許可を丁寧に尋ねる定型。
 
-### 🔈 Pronúncia – 発音メモ（ポルトガル式 + IPA）
+### ✈️ Pratique!（練習してみよう）
 
-deixar – [dɐjˈʃaʁ]（ダイシャʁ）  
-bagagem – [bɐˈɣa.ʒẽj̃]（バガージェン）  
-voltar – [vɔɫˈtaʁ]（ヴォルターʁ）  
-tarde – [ˈtaɾ.dɨ]（タルジ）  
-problema – [pɾuˈble.mɐ]（プロブレマ）  
-  
-💬 ʁ は喉音。ʒ は「ジャ」音。鼻母音（ẽj̃）も練習ポイント。
+会話例の音声を使って、シャドーイングに挑戦してみよう！
 
 ### 💬 Dica cultural – 文化メモ
 
