@@ -30,13 +30,13 @@
 | **bagagem**               |           |          |           |                       |
 | **algum**                 |           |          |           |                       |
 | **hora**                  |           |          |           |                       |
-|                           |           |          |           |                       |
-|                           |           |          |           |                       |
+| **sem**                   |           |          |           |                       |
 | **problema**              | pɾuˈblema | プルブレマ    | 問題        | problem               |
 | **volto**                 | ˈvoltu    | ヴォルトゥ    | 戻ります      | I return/I'll be back |
 | **mais**                  | ˈmajʃ     | マイシュ     | もっと／より    | more                  |
 | **tarde**                 | ˈtaɾde    | タルデ      | 後で        | later                 |
 | **viagem**                | viˈaʒẽ    | ヴィアジェン   | 旅行        | trip/ journey         |
+
 
 
 
