@@ -1,74 +1,23 @@
 ### 🗣️ Diálogo – 会話例
 
-Viajante: Bom dia. Um bilhete para o Porto, por favor.
-
-Funcionário: Só de ida ou de ida e volta?
-
-Viajante: De ida e volta, por favor.
-
-Funcionário: Para hoje?
-
-Viajante: Sim, para esta tarde.
-
-Funcionário: Quer o comboio das três?
-
-Viajante: Sim, das três, por favor.
-
-Funcionário: Muito bem. São vinte e cinco euros.
-
-Viajante: Aqui está. Obrigada.
-
-Funcionário: Obrigado. Boa viagem!
-
-Viajante: Obrigada.
-
-### 💬 Tradução – 日本語訳
-
-旅行者：おはようございます。ポルト行きの切符を1枚お願いします。
-
-係員：片道ですか？往復ですか？
-
-旅行者：往復でお願いします。
-
-係員：今日の分ですか？
-
-旅行者：はい、今日の午後です。
-
-係員：3時の電車にしますか？
-
-旅行者：はい、3時の電車でお願いします。
-
-係員：かしこまりました。25ユーロです。
-
-旅行者：どうぞ。ありがとうございます。
-
-係員：ありがとうございます。よい旅を！
-
-旅行者：ありがとうございます。
-
-### 🇬🇧 English translation – 英語訳
-
-Traveller: Good morning. One ticket to Porto, please.
-
-Clerk: One-way or return?
-
-Traveller: Return, please.
-
-Clerk: For today?
-
-Traveller: Yes, for this afternoon.
-
-Clerk: The train at three o’clock?
-
-Traveller: Yes, the one at three, please.
-
-Clerk: All right. That’s twenty-five euros.
-
-Traveller: Here you are. Thank you.
-
-Clerk: Thank you. Have a nice trip!
-
-Traveller: Thank you.
+<table>
+<thead>
+<tr><th></th><th>ポルトガル語</th><th>日本語訳</th><th>英語訳</th></tr>
+</thead>
+<tbody>
+<tr><td>旅行者</td><td><strong>Bom dia.</strong><br><strong>Um bilhete para o Porto, por favor.</strong></td><td>おはようございます。<br>ポルト行きの切符を1枚お願いします。</td><td>Good morning.<br>One ticket to Porto, please.</td></tr>
+<tr><td>係員</td><td><strong>Só de ida ou de ida e volta?</strong></td><td>片道ですか？往復ですか？</td><td>One-way or return?</td></tr>
+<tr><td>旅行者</td><td><strong>De ida e volta, por favor.</strong></td><td>往復でお願いします。</td><td>Return, please.</td></tr>
+<tr><td>係員</td><td><strong>Para hoje?</strong></td><td>今日の分ですか？</td><td>For today?</td></tr>
+<tr><td>旅行者</td><td><strong>Sim, para esta tarde.</strong></td><td>はい、今日の午後です。</td><td>Yes, for this afternoon.</td></tr>
+<tr><td>係員</td><td><strong>Quer o comboio das três?</strong></td><td>3時の電車にしますか？</td><td>The train at three o’clock?</td></tr>
+<tr><td>旅行者</td><td><strong>Sim, das três, por favor.</strong></td><td>はい、3時の電車でお願いします。</td><td>Yes, the one at three, please.</td></tr>
+<tr><td>係員</td><td><strong>Muito bem.</strong><br><strong>São vinte e cinco euros.</strong></td><td>かしこまりました。<br>25ユーロです。</td><td>All right.<br>That’s twenty-five euros.</td></tr>
+<tr><td>旅行者</td><td><strong>Aqui está.</strong><br><strong>Obrigada.</strong></td><td>どうぞ。<br>ありがとうございます。</td><td>Here you are.<br>Thank you.</td></tr>
+<tr><td>係員</td><td><strong>Obrigado.</strong><br><strong>Boa viagem!</strong></td><td>ありがとうございます。<br>よい旅を！</td><td>Thank you.<br>Have a nice trip!</td></tr>
+<tr><td>旅行者</td><td><strong>Obrigada.</strong></td><td>ありがとうございます。</td><td>Thank you.</td></tr>
+</tbody>
+</table>
 
 ### Vocabulário – 新しい語彙
 
@@ -95,8 +44,9 @@ Traveller: Thank you.
 
 ### 🧩 Ponto de gramática – 文法ポイント
 
-#### 1.     「~したい」：Querer＋動詞原形
+#### 1. 行き先や本数を尋ねる表現
 
+駅では、行き先（どこまで行きたいか）や切符の種類、時刻などを尋ねたり答えたりする表現がよく使われます。ここでは、その代表的な表現を確認します。
 
 1️⃣ 疑問詞 para onde / até onde
 
@@ -145,33 +95,33 @@ Traveller: Thank you.
 #### 📘 Suplemento – Números e preços（数字と値段）
 
 | **Número** | **Português (Portugal)** | **IPA**            | **Leitura aproximada** |
-| ---------- | ------------------------- | ------------------- | ----------------------- |
-| 0          | zero                       | [ˈzɛ.ɾu]           | ゼル                     |
-| 1      | um / uma             | [ũ] / [ˈu.mɐ]      | ウン / ウマ            |
-| 2      | dois / duas          | [ˈdojʃ] / [ˈdu.ɐʃ] | ドイシュ / ドゥアシュ       |
-| 3      | três                 | [tɾeʃ]             | トレシュ               |
-| 4      | quatro               | [ˈkwɐ.tɾu]         | クワトル               |
-| 5      | cinco                | [ˈsĩ.ku]           | シンク                |
-| 6      | seis                 | [sejʃ]             | セイシュ               |
-| 7      | sete                 | [ˈsɛ.tɨ]           | セテ                 |
-| 8      | oito                 | [ˈoj.tu]           | オイト                |
-| 9      | nove                 | [ˈnɔ.vɨ]           | ノヴィ                |
-| 10     | dez                  | [dɛʃ]              | デシュ                |
-| 11     | onze                 | [ˈõ.zɨ]            | オンズ                |
-| 12     | doze                 | [ˈdo.zɨ]           | ドーズ                |
-| 13     | treze                | [ˈtɾe.zɨ]          | トレーズ               |
-| 14     | catorze              | [kɐ.ˈtoɾ.zɨ]       | カトルズ               |
-| 15     | quinze               | [ˈkĩ.zɨ]           | キンゼ                |
-| 16     | dezasseis            | [dɨ.zɐ.ˈsejʃ]      | デザセイシュ             |
-| 17     | dezassete            | [dɨ.zɐ.ˈsɛ.tɨ]     | デザセテ               |
-| 18     | dezoito              | [dɨ.ˈzoj.tu]       | デゾイト               |
-| 19     | dezanove             | [dɨ.zɐ.ˈnɔ.vɨ]     | デザノヴィ              |
-| 20     | vinte                | [ˈvĩ.tɨ]           | ヴィンチ               |
-| 30     | trinta               | [ˈtɾĩ.tɐ]          | トリンタ               |
-| 40     | quarenta             | [kwɐ.ˈɾẽ.tɐ]       | クアレンタ              |
-| 50     | cinquenta            | [sĩ.ˈkwẽ.tɐ]       | シンクエンタ             |
-| 60     | sessenta             | [sɨ.ˈsẽ.tɐ]        | セセンタ               |
-| 70     | setenta              | [sɨ.ˈtẽ.tɐ]        | ステンタ               |
-| 80     | oitenta              | [oj.ˈtẽ.tɐ]        | オイテンタ              |
-| 90     | noventa              | [nu.ˈvẽ.tɐ]        | ノヴェンタ              |
-| 100    | cem                  | [sɐ̃j̃]            | セン（鼻音）             |
+| ---------- | ------------------------ | ------------------ | ---------------------- |
+| 0          | zero                     | [ˈzɛ.ɾu]           | ゼル                   |
+| 1          | um / uma                 | [ũ] / [ˈu.mɐ]      | ウン / ウマ            |
+| 2          | dois / duas              | [ˈdojʃ] / [ˈdu.ɐʃ] | ドイシュ / ドゥアシュ  |
+| 3          | três                     | [tɾeʃ]             | トレシュ               |
+| 4          | quatro                   | [ˈkwɐ.tɾu]         | クワトル               |
+| 5          | cinco                    | [ˈsĩ.ku]           | シンク                 |
+| 6          | seis                     | [sejʃ]             | セイシュ               |
+| 7          | sete                     | [ˈsɛ.tɨ]           | セテ                   |
+| 8          | oito                     | [ˈoj.tu]           | オイト                 |
+| 9          | nove                     | [ˈnɔ.vɨ]           | ノヴィ                 |
+| 10         | dez                      | [dɛʃ]              | デシュ                 |
+| 11         | onze                     | [ˈõ.zɨ]            | オンズ                 |
+| 12         | doze                     | [ˈdo.zɨ]           | ドーズ                 |
+| 13         | treze                    | [ˈtɾe.zɨ]          | トレーズ               |
+| 14         | catorze                  | [kɐ.ˈtoɾ.zɨ]       | カトルズ               |
+| 15         | quinze                   | [ˈkĩ.zɨ]           | キンゼ                 |
+| 16         | dezasseis                | [dɨ.zɐ.ˈsejʃ]      | デザセイシュ           |
+| 17         | dezassete                | [dɨ.zɐ.ˈsɛ.tɨ]     | デザセテ               |
+| 18         | dezoito                  | [dɨ.ˈzoj.tu]       | デゾイト               |
+| 19         | dezanove                 | [dɨ.zɐ.ˈnɔ.vɨ]     | デザノヴィ             |
+| 20         | vinte                    | [ˈvĩ.tɨ]           | ヴィンチ               |
+| 30         | trinta                   | [ˈtɾĩ.tɐ]          | トリンタ               |
+| 40         | quarenta                 | [kwɐ.ˈɾẽ.tɐ]       | クアレンタ             |
+| 50         | cinquenta                | [sĩ.ˈkwẽ.tɐ]       | シンクエンタ           |
+| 60         | sessenta                 | [sɨ.ˈsẽ.tɐ]        | セセンタ               |
+| 70         | setenta                  | [sɨ.ˈtẽ.tɐ]        | ステンタ               |
+| 80         | oitenta                  | [oj.ˈtẽ.tɐ]        | オイテンタ             |
+| 90         | noventa                  | [nu.ˈvẽ.tɐ]        | ノヴェンタ             |
+| 100        | cem                      | [sɐ̃j̃]            | セン（鼻音）           |
