@@ -503,12 +503,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 2 – Chegada a Portugal（ポルトガル到着）/Lição 2 – No aeroporto（空港の中で）.md",
+                "file": "01_ポルトガル語テキスト/旅行編/Capítulo 4 – Deslocar-se e visitar（移動と観光）/Lição 1 – Na estação（駅で）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lição 2 – No aeroporto（空港の中で）"
+              "title": "Lição 1 – Na estação（駅で）"
             }
           }
         ],
@@ -671,7 +671,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -687,9 +687,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "054a54eeda721109",
+  "active": "d943bba129296c5c",
   "lastOpenFiles": [
+    "01_ポルトガル語テキスト/旅行編/Capítulo 4 – Deslocar-se e visitar（移動と観光）/Lição 1 – Na estação（駅で）.md.tmp.9348.df39fc6362fc",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 4 – Deslocar-se e visitar（移動と観光）/Lição 1 – Na estação（駅で）.md.tmp.9348.5feabd2b5522",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 4 – Deslocar-se e visitar（移動と観光）/Lição 1 – Na estação（駅で）.md.tmp.9348.42876b295fd3",
     "01_ポルトガル語テキスト/旅行編/Capítulo 3 – No hotel（ホテルで）/Lição 4 – Check-out（チェックアウト）.md",
+    "01_ポルトガル語テキスト/旅行編/Capítulo 2 – Chegada a Portugal（ポルトガル到着）/Lição 2 – No aeroporto（空港の中で）.md",
     "01_ポルトガル語テキスト/旅行編/Capítulo 4 – Deslocar-se e visitar（移動と観光）/Lição 1 – Na estação（駅で）.md",
     "01_ポルトガル語テキスト/旅行編/Capítulo 3 – No hotel（ホテルで）/Lição 3 – O pequeno-almoço（朝食）.md",
     "01_ポルトガル語テキスト/旅行編/Capítulo 3 – No hotel（ホテルで）/Lição 3 – O pequeno-almoço（朝食）.md.tmp.26856.d2ad4da94de0",
@@ -718,11 +722,8 @@
     "ブログ/ポルトガルの住宅費高騰——数字で見る「住めない」の現実.md.tmp.21268.e6e18d8725ad",
     "ブログ/ポルトガルの住宅費高騰——数字で見る「住めない」の現実.md.tmp.21268.a41e4dad3f22",
     "02_日本語授業/日本語文法/並立と接続.md",
-    "02_日本語授業/日本語文法/並立と接続.md.tmp.8160.b560cbe328c6",
-    "02_日本語授業/日本語文法/並立と接続.md.tmp.8160.53c6795f6caf",
     "02_日本語授業/日本語文法/並列と接続.md",
     "02_日本語授業/日本語文法/とりたて助詞ー「なら」の用法.md",
-    "02_日本語授業/日本語文法/とりたて助詞ー「だけ」と「しか～ない」.md",
-    "02_日本語授業/日本語文法/「Vテ＋いた」の用法.md"
+    "02_日本語授業/日本語文法/とりたて助詞ー「だけ」と「しか～ない」.md"
   ]
 }

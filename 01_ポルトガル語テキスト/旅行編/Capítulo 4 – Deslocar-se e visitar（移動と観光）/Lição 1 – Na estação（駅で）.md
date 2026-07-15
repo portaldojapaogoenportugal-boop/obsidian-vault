@@ -75,9 +75,8 @@ Traveller: Thank you.
 
 ### 🔑 Expressões importantes – よく使う表現
 
-|                                     |                    |                              |
+| **Português**                       | **日本語**            | **English**                  |
 | ----------------------------------- | ------------------ | ---------------------------- |
-| Português                           | 日本語                | English                      |
 | Um bilhete para o Porto, por favor. | ポルト行きの切符を1枚お願いします。 | One ticket to Porto, please. |
 | Só de ida ou de ida e volta?        | 片道ですか？往復ですか？       | One-way or return?           |
 | Para hoje?                          | 今日の分ですか？           | For today?                   |
@@ -100,21 +99,19 @@ Traveller: Thank you.
 
 2️⃣ 動詞 ir（行く）
 
-|           |       |                             |
-| --------- | ----- | --------------------------- |
-| Pessoa    | Forma | Exemplo                     |
-| Eu        | vou   | Vou para o Porto.（ポルトへ行きます） |
-| Ele / Ela | vai   | Vai para Lisboa.（リスボンへ行きます） |
+| **Pessoa** | **Forma** | **Exemplo**                 |
+| ---------- | --------- | --------------------------- |
+| Eu         | vou       | Vou para o Porto.（ポルトへ行きます） |
+| Ele / Ela  | vai       | Vai para Lisboa.（リスボンへ行きます） |
 
 💡 ir + para + 地名 → 「〜へ行く」。
 
 3️⃣ 名詞 bilhete（切符）
 
-|   |   |
-|---|---|
-|Expressão|Tradução|
-|um bilhete de ida|片道切符|
-|um bilhete de ida e volta|往復切符|
+| **Expressão**              | **Tradução** |
+| --------------------------- | ------------ |
+| um bilhete de ida           | 片道切符         |
+| um bilhete de ida e volta   | 往復切符         |
 
 4️⃣ 数字と時刻表現
 
@@ -138,10 +135,9 @@ Traveller: Thank you.
 
 #### 📘 Suplemento – Números e preços（数字と値段）
 
-|        |                      |                    |                    |
-| ------ | -------------------- | ------------------ | ------------------ |
-| Número | Português (Portugal) | IPA                | Leitura aproximada |
-| 0      | zero                 | [ˈzɛ.ɾu]           | ゼル                 |
+| **Número** | **Português (Portugal)** | **IPA**            | **Leitura aproximada** |
+| ---------- | ------------------------- | ------------------- | ----------------------- |
+| 0          | zero                       | [ˈzɛ.ɾu]           | ゼル                     |
 | 1      | um / uma             | [ũ] / [ˈu.mɐ]      | ウン / ウマ            |
 | 2      | dois / duas          | [ˈdojʃ] / [ˈdu.ɐʃ] | ドイシュ / ドゥアシュ       |
 | 3      | três                 | [tɾeʃ]             | トレシュ               |
