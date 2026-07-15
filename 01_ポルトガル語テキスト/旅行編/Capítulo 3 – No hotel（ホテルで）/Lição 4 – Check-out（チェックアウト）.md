@@ -73,13 +73,16 @@ Queria um café, por favor.
 
 #### 2. 前置詞comの用法
 
-comは第3課で触れた様態を表すestar comのほか、**手段**を表すのにも使われます。会話例「**Posso pagar com cartão?**」では、支払手段として、現金ではなくカードでもいいか、ということを確認する文です。このほか、以下が手段を表すcomを使った例文です。尚、動詞はいずれも主語が第一人称単数（私）の現在形です。
+comは第3課で触れた様態を表すestar comのほか、**手段**を表すのにも使われます。会話例「**Posso pagar com cartão?**」では、支払手段として、現金ではなくカードでもいいか、ということを確認する文です。このほか、以下が手段を表すcomを使った例文です。尚、動詞はいずれも主語が第一人称単数（私）現在形です。
 
 | ポルトガル語                  | 日本語訳       |     |
 | ----------------------- | ---------- | --- |
-| Escrevo com uma caneta. | ペンで書きます。   |     |
-| Falo com o telemóvel.   | 携帯電話で話します。 |     |
-| Como com pauzinhos.     | 箸で食べます。    |     |
+| Escrevo com uma caneta. | ペンで書きます。   | (1) |
+| Falo com o telemóvel.   | 携帯電話で話します。 | (2) |
+| Como com pauzinhos.     | 箸で食べます。    | (3) |
+(1) escrevoの動詞の原形はescrever（書く）、caneta（名詞）はぺンを表す。
+(2) faloの動詞の原形はfalar（話す）、telemóvel（名詞）は携帯電話を表す。
+(3) comoの動詞の原形はcomer（食べる）、pauzinhos（名詞）は箸を表す。
 
 #### 3. 直説法現在形の用法
 
