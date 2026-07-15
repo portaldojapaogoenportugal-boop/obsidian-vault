@@ -72,6 +72,15 @@ Traveller: Thank you.
 
 ### Vocabulário – 新しい語彙
 
+| **ポルトガル語** | **発音**       | **カタカナ** | **日本語訳** | **英語訳**   |
+| ----------- | ------------ | -------- | -------- | --------- |
+| **bilhete** | biˈʎɛtɨ      | ビリェテ     | 切符       | ticket    |
+| **ida**     | ˈidɐ         | イダ       | 片道／行き    | one-way   |
+| **volta**   | ˈvɔltɐ       | ヴォルタ     | 帰り／往復    | return    |
+| **comboio** | kõˈbɔju      | コンボイオ    | 電車       | train     |
+| **hoje**    | ˈoʒɨ         | オジェ      | 今日       | today     |
+| **tarde**   | ˈtaɾdɨ       | タルデ      | 午後       | afternoon |
+| **euro**    | ˈɛwɾu        | エウロ      | ユーロ      | euro      |
 
 ### 🔑 Expressões importantes – よく使う表現
 
