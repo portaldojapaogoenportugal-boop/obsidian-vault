@@ -9,7 +9,7 @@
 <tr><td>受付</td><td><strong>Claro.</strong><br><strong>Está tudo certo.</strong></td><td>かしこまりました。<br>問題ございません。</td><td>Of course.<br>Everything is in order.</td></tr>
 <tr><td>旅行者</td><td><strong>Posso pagar com cartão?</strong></td><td>カードで支払えますか？</td><td>Can I pay by card?</td></tr>
 <tr><td>受付</td><td><strong>Sim, pode.</strong></td><td>はい、できます。</td><td>Yes, you can.</td></tr>
-<tr><td>旅行者</td><td><strong>Posso deixar a bagagem aqui por algumas horas?</strong></td><td>荷物をここに数時間預けてもいいですか？</td><td>Can I leave my luggage here for a few hours?</td></tr>
+<tr><td>旅行者</td><td><strong>Posso deixar a bagagem aqui por algumas horas?</strong></td><td>荷物をここに2-3時間ほど預けてもいいですか？</td><td>Can I leave my luggage here for a few hours?</td></tr>
 <tr><td>受付</td><td><strong>Claro, sem problema.</strong></td><td>もちろん、大丈夫です。</td><td>Of course, no problem.</td></tr>
 <tr><td>旅行者</td><td><strong>Obrigada.</strong><br><strong>Volto mais tarde.</strong></td><td>ありがとうございます。<br>あとで戻ります。</td><td>Thank you.<br>I’ll come back later.</td></tr>
 <tr><td>受付</td><td><strong>Está bem.</strong><br><strong>Boa viagem!</strong></td><td>わかりました。<br>良い旅を！</td><td>All right.<br>Have a good trip!</td></tr>
