@@ -9,7 +9,7 @@
 <tr><td>受付</td><td><strong>Claro.</strong><br><strong>Está tudo certo.</strong></td><td>かしこまりました。<br>問題ございません。</td><td>Of course.<br>Everything is in order.</td></tr>
 <tr><td>旅行者</td><td><strong>Posso pagar com cartão?</strong></td><td>カードで支払えますか？</td><td>Can I pay by card?</td></tr>
 <tr><td>受付</td><td><strong>Sim, pode.</strong></td><td>はい、できます。</td><td>Yes, you can.</td></tr>
-<tr><td>旅行者</td><td><strong>Posso deixar a bagagem aqui por algumas horas?</strong></td><td>荷物をここに2-3時間ほど預けてもいいですか？</td><td>Can I leave my luggage here for a few hours?</td></tr>
+<tr><td>旅行者</td><td><strong>Posso deixar a bagagem aqui por algumas horas?</strong></td><td>荷物をここに2～3時間ほど預けてもいいですか？</td><td>Can I leave my luggage here for a few hours?</td></tr>
 <tr><td>受付</td><td><strong>Claro, sem problema.</strong></td><td>もちろん、大丈夫です。</td><td>Of course, no problem.</td></tr>
 <tr><td>旅行者</td><td><strong>Obrigada.</strong><br><strong>Volto mais tarde.</strong></td><td>ありがとうございます。<br>あとで戻ります。</td><td>Thank you.<br>I’ll come back later.</td></tr>
 <tr><td>受付</td><td><strong>Está bem.</strong><br><strong>Boa viagem!</strong></td><td>わかりました。<br>良い旅を！</td><td>All right.<br>Have a good trip!</td></tr>
@@ -18,25 +18,26 @@
 
 ### Vocabulário – 新しい語彙
 
-| **ポルトガル語**                | **発音**     | **カタカナ** | **日本語訳**   | **英語訳**               |     |
-| ------------------------- | ---------- | -------- | ---------- | --------------------- | --- |
-| **quero（動詞quererの一人称単数）** | ˈkeɾu      | ケル       | 〜がしたい／欲しい  | I want                |     |
-| **fazer**                 | faˈzeɾ     | ファゼール    | する／作る      | to do, to make        |     |
-| **check-out**             | ˈtʃek awt  | チェックアウト  | チェックアウト    | check-out             |     |
-| **certo**                 | ˈseɾtu     | セルトゥ     | 正しい／確かな    | correct/certain       |     |
-| **pagar**                 | paˈɣaɾ     | パガール     | 払う         | to pay                |     |
-| **cartão**                | kɐɾˈtɐ̃w̃  | カルタォン    | カード        | card                  |     |
-| **deixar**                | dɐjˈʃaɾ    | ダイシャール   | 置く／預ける     | to leave/to let       |     |
-| **bagagem**               | bɐˈɣaʒɐ̃j̃ | バガージェン   | 荷物         | luggage/baggage       | (1) |
-| **algum**                 | aɫˈgũ      | アルグン     | いくつかの／何らかの | some/any              |     |
-| **hora**                  | ˈɔɾɐ       | オラ       | 時間         | hour                  |     |
-| **sem**                   | sɐ̃j̃      | セン       | 〜なしで       | without               |     |
-| **problema**              | pɾuˈblema  | プルブレマ    | 問題         | problem               |     |
-| **volto**                 | ˈvoltu     | ヴォルトゥ    | 戻ります       | I return/I'll be back |     |
-| **mais**                  | ˈmajʃ      | マイシュ     | もっと／より     | more                  |     |
-| **tarde**                 | ˈtaɾde     | タルデ      | 後で         | later                 |     |
-| **viagem**                | viˈaʒẽ     | ヴィアジェン   | 旅行         | trip/ journey         |     |
-(1) 単数集合名詞
+| **ポルトガル語**                | **発音**     | **カタカナ** | **日本語訳**    | **英語訳**                |     |
+| ------------------------- | ---------- | -------- | ----------- | ---------------------- | --- |
+| **quero（動詞quererの一人称単数）** | ˈkeɾu      | ケル       | 〜がしたい／欲しい   | I want                 |     |
+| **fazer**                 | faˈzeɾ     | ファゼール    | する／作る       | to do, to make         |     |
+| **check-out**             | ˈtʃek awt  | チェックアウト  | チェックアウト     | check-out              |     |
+| **certo**                 | ˈseɾtu     | セルトゥ     | 正しい／確かな     | correct/certain        |     |
+| **pagar**                 | paˈɣaɾ     | パガール     | 払う          | to pay                 |     |
+| **cartão**                | kɐɾˈtɐ̃w̃  | カルタォン    | カード         | card                   |     |
+| **deixar**                | dɐjˈʃaɾ    | ダイシャール   | 置く／預ける      | to leave/to let        |     |
+| **bagagem**               | bɐˈɣaʒɐ̃j̃ | バガージェン   | 荷物          | luggage/baggage        | (1) |
+| **algum**                 | aɫˈgũ      | アルグン     | ある／何らかの（単数） | some / any (a certain) | (2) |
+| **hora**                  | ˈɔɾɐ       | オラ       | 時間          | hour                   |     |
+| **sem**                   | sɐ̃j̃      | セン       | 〜なしで        | without                |     |
+| **problema**              | pɾuˈblema  | プルブレマ    | 問題          | problem                |     |
+| **volto**                 | ˈvoltu     | ヴォルトゥ    | 戻ります        | I return/I'll be back  |     |
+| **mais**                  | ˈmajʃ      | マイシュ     | もっと／より      | more                   |     |
+| **tarde**                 | ˈtaɾde     | タルデ      | 後で          | later                  |     |
+| **viagem**                | viˈaʒẽ     | ヴィアジェン   | 旅行          | trip/ journey          |     |
+(1) 一まとまりの複数の荷物を単数形で表す（単数集合名詞）
+(2) 本文の **algumas** は女性複数形で「いくつかの・数〜（a few）」の意。algumas horas＝数時間（2〜3時間ほど）。algum は名詞に合わせ algum/alguma/alguns/algumas と変化する。
 
 ### 🔑 Expressões importantes – よく使う表現
 
@@ -99,7 +100,7 @@ comは第3課で触れた様態を表すestar comのほか、**手段**を表す
 
 #### 4. 前置詞porの用法
 
-期間を表す言葉の前に前置詞porを置くことで、「～の間」という意味になります。会話例では**algumas horas**
+期間を表す言葉の前に前置詞porを置くことで、「～の間」という意味になります。会話例では**algumas horas**の前について2～3時間という
 
 
 
