@@ -64,14 +64,14 @@ Bom apetiteは食事の前の声掛けによく使われる、日常的な表現
 
 形容詞の場合は、その形容詞をestarにつければ、その非恒久的状態を表すことができますが、名詞を使った表現方法もあります。その場合、前置詞comをつけて表現することになります。ここの文脈では、comは英語の前置詞withのようなもの、と考えれば、分かりやすいかと思います。この構文を使った表現として、例えば、以下のような例があります。例文は全て主語が一人称単数（私）ですが、主語が変われば、estarも変化します。
 
-|**ポルトガル語**|**日本語訳**|**英語訳**||
-|---|---|---|---|
-|**Estou com sede.**|のどが渇いています。|I'm thirsty.||
-|**Estou** **com sono.**|眠いです。|I'm sleepy.||
-|**Estou com frio.**|寒いです。|I'm cold.|(1)|
-|**Estou com calor.**|暑いです。|I'm hot.||
-|**Estou com febre.**|熱があります。|I have a fever.||
-|**Estou com dores de cabeça.**|頭が痛いです。|I have a headache.|(2)|
+| **ポルトガル語**                       | **日本語訳**     | **英語訳**               | **備考** |
+| --------------------------------- | ------------ | --------------------- | ------ |
+| **Estou com sede.**                | のどが渇いています。  | I'm thirsty.          |        |
+| **Estou com sono.**                | 眠いです。       | I'm sleepy.           |        |
+| **Estou com frio.**                | 寒いです。       | I'm cold.             | (1)    |
+| **Estou com calor.**               | 暑いです。       | I'm hot.              |        |
+| **Estou com febre.**               | 熱があります。     | I have a fever.       |        |
+| **Estou com dores de cabeça.**     | 頭が痛いです。     | I have a headache.    | (2)    |
 
 (1)   frioは名詞・形容詞両方の意味を持ち、ここでは名詞として使われています。
 
