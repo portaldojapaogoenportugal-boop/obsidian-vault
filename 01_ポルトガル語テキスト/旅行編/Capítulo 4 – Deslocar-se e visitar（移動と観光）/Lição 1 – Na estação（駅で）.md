@@ -10,7 +10,7 @@
 <tr><td>旅行者</td><td><strong>De ida e volta, por favor.</strong></td><td>往復でお願いします。</td><td>Return, please.</td></tr>
 <tr><td>係員</td><td><strong>Para hoje?</strong></td><td>今日の分ですか？</td><td>For today?</td></tr>
 <tr><td>旅行者</td><td><strong>Sim, para esta tarde.</strong></td><td>はい、今日の午後です。</td><td>Yes, for this afternoon.</td></tr>
-<tr><td>係員</td><td><strong>Quer o comboio das três da tarde?</strong></td><td>午後3時の電車にしますか？</td><td>The train at three ?</td></tr>
+<tr><td>係員</td><td><strong>Quer o comboio das três da tarde?</strong></td><td>午後3時の電車にしますか？</td><td>The train at three p.m.?</td></tr>
 <tr><td>旅行者</td><td><strong>Sim, das três, por favor.</strong></td><td>はい、3時の電車でお願いします。</td><td>Yes, the one at three, please.</td></tr>
 <tr><td>係員</td><td><strong>Muito bem.</strong><br><strong>São vinte e cinco euros.</strong></td><td>かしこまりました。<br>25ユーロです。</td><td>All right.<br>That’s twenty-five euros.</td></tr>
 <tr><td>旅行者</td><td><strong>Aqui está.</strong><br><strong>Obrigada.</strong></td><td>どうぞ。<br>ありがとうございます。</td><td>Here you are.<br>Thank you.</td></tr>
@@ -44,7 +44,7 @@
 
 ### 🧩 Ponto de gramática – 文法ポイント
 
-#### 1. 行き先や本数を尋ねる表現
+#### 1. 前置詞deの用法
 
 駅では、行き先（どこまで行きたいか）や切符の種類、時刻などを尋ねたり答えたりする表現がよく使われます。ここでは、その代表的な表現を確認します。
 
