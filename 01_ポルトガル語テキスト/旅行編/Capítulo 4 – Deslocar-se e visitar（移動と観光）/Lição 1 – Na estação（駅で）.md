@@ -10,7 +10,7 @@
 <tr><td>旅行者</td><td><strong>De ida e volta, por favor.</strong></td><td>往復でお願いします。</td><td>Return, please.</td></tr>
 <tr><td>係員</td><td><strong>Para hoje?</strong></td><td>今日の分ですか？</td><td>For today?</td></tr>
 <tr><td>旅行者</td><td><strong>Sim, para esta tarde.</strong></td><td>はい、今日の午後です。</td><td>Yes, for this afternoon.</td></tr>
-<tr><td>係員</td><td><strong>Quer o comboio das três?</strong></td><td>3時の電車にしますか？</td><td>The train at three o’clock?</td></tr>
+<tr><td>係員</td><td><strong>Quer o comboio das três da tarde?</strong></td><td>午後3時の電車にしますか？</td><td>The train at three ?</td></tr>
 <tr><td>旅行者</td><td><strong>Sim, das três, por favor.</strong></td><td>はい、3時の電車でお願いします。</td><td>Yes, the one at three, please.</td></tr>
 <tr><td>係員</td><td><strong>Muito bem.</strong><br><strong>São vinte e cinco euros.</strong></td><td>かしこまりました。<br>25ユーロです。</td><td>All right.<br>That’s twenty-five euros.</td></tr>
 <tr><td>旅行者</td><td><strong>Aqui está.</strong><br><strong>Obrigada.</strong></td><td>どうぞ。<br>ありがとうございます。</td><td>Here you are.<br>Thank you.</td></tr>
