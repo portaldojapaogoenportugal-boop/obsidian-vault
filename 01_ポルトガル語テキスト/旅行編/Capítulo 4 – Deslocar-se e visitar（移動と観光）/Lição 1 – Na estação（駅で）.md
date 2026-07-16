@@ -1,18 +1,18 @@
 ### 🗣️ Diálogo – 会話例
 
-|     | **ポルトガル語**                                              | **日本語訳**                         | **英語訳**                                       | **注** |
-| --- | ------------------------------------------------------- | -------------------------------- | --------------------------------------------- | ----- |
-| 旅行者 | **Bom dia.**<br>**Um bilhete para o Porto, por favor.** | おはようございます。<br>ポルト行きの切符を1枚お願いします。 | Good morning.<br>One ticket to Porto, please. |       |
-| 係員  | **Só de ida ou de ida e volta?**                        | 片道ですか？往復ですか？                     | One-way or return?                            | (1)   |
-| 旅行者 | **De ida e volta, por favor.**                          | 往復でお願いします。                       | Return, please.                               |       |
-| 係員  | **Para hoje?**                                          | 今日の分ですか？                         | For today?                                    |       |
-| 旅行者 | **Sim, para esta tarde.**                               | はい、今日の午後です。                      | Yes, for this afternoon.                      |       |
-| 係員  | **Quer o comboio das três da tarde?**                   | 午後3時の電車にしますか？                    | Do you want the train at three p.m.?          | (2)   |
-| 旅行者 | **Sim, das três, por favor.**                           | はい、3時の電車でお願いします。                 | Yes, the one at three, please.                | (2)   |
-| 係員  | **Muito bem.**<br>**São vinte e cinco euros.**          | かしこまりました。<br>25ユーロです。            | All right.<br>That’s twenty-five euros.       |       |
-| 旅行者 | **Aqui está.**<br>**Obrigada.**                         | どうぞ。<br>ありがとうございます。              | Here you are.<br>Thank you.                   |       |
-| 係員  | **Obrigado.**<br>**Boa viagem!**                        | ありがとうございます。<br>よい旅を！             | Thank you.<br>Have a nice trip!               |       |
-| 旅行者 | **Obrigada.**                                           | ありがとうございます。                      | Thank you.                                    |       |
+|     | **ポルトガル語**                                              | **日本語訳**                         | **英語訳**                                       |     |
+| --- | ------------------------------------------------------- | -------------------------------- | --------------------------------------------- | --- |
+| 旅行者 | **Bom dia.**<br>**Um bilhete para o Porto, por favor.** | おはようございます。<br>ポルト行きの切符を1枚お願いします。 | Good morning.<br>One ticket to Porto, please. |     |
+| 係員  | **Só de ida ou de ida e volta?**                        | 片道ですか？往復ですか？                     | One-way or return?                            | (1) |
+| 旅行者 | **De ida e volta, por favor.**                          | 往復でお願いします。                       | Return, please.                               |     |
+| 係員  | **Para hoje?**                                          | 今日の分ですか？                         | For today?                                    |     |
+| 旅行者 | **Sim, para esta tarde.**                               | はい、今日の午後です。                      | Yes, for this afternoon.                      |     |
+| 係員  | **Quer o comboio das três da tarde?**                   | 午後3時の電車にしますか？                    | Do you want the train at three p.m.?          | (2) |
+| 旅行者 | **Sim, das três, por favor.**                           | はい、3時の電車でお願いします。                 | Yes, the one at three, please.                | (2) |
+| 係員  | **Muito bem.**<br>**São vinte e cinco euros.**          | かしこまりました。<br>25ユーロです。            | All right.<br>That’s twenty-five euros.       |     |
+| 旅行者 | **Aqui está.**<br>**Obrigada.**                         | どうぞ。<br>ありがとうございます。              | Here you are.<br>Thank you.                   |     |
+| 係員  | **Obrigado.**<br>**Boa viagem!**                        | ありがとうございます。<br>よい旅を！             | Thank you.<br>Have a nice trip!               |     |
+| 旅行者 | **Obrigada.**                                           | ありがとうございます。                      | Thank you.                                    |     |
 (1) ida（片道）やida e volta（往復）の前に前置詞deがあるのは、deの前にあるべき名詞bilhete（切符）が省略されているから。名詞修飾のdeについては、第2章第3課2参照。
 (2) 「3時**に**」という意味で時間を表す場合、時間の前には前置詞a(s)がつく。ここでは、「3時の（de as três→das três）」を表す。時間については第4章第2課で取り扱う。
 
@@ -21,7 +21,7 @@
 | **ポルトガル語**  | **発音**  | **カタカナ** | **日本語訳** | **英語訳**            |
 | ----------- | ------- | -------- | -------- | ------------------ |
 | **bilhete** | biˈʎɛtɨ | ビリェテ     | 切符       | ticket             |
-| **só**      |         |          |          |                    |
+| **só**      | ˈsɔ     | ソ       | 〜だけ／〜のみ | only               |
 | **ida**     | ˈidɐ    | イダ       | 行き／往路    | going／outward trip |
 | **volta**   | ˈvɔltɐ  | ヴォルタ     | 帰り／復路    | return／way back    |
 | **hoje**    | ˈoʒɨ    | オジェ      | 今日       | today              |
@@ -85,4 +85,5 @@
 
 ポルトガルの鉄道（comboio）では、切符は窓口や自動販売機で購入できます。切符はカードにチャージする方式で、一旦購入すると一定期間チャージしながら使用できます。
 ただ、大きい駅では窓口が込み合っていることが多いので、事前にオンライン購入をしておくと安心です。
+また、長距離バスでも窓口購入は可能ですが、事前にオンライン購入しておくと、大幅な値引き価格が適用されることもあるので、オンライン環境があるなら是非チェックしておきましょう。
 

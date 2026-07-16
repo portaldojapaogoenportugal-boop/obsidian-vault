@@ -1,22 +1,18 @@
 ### 🗣️ Diálogo – 会話例
 
-Revisor: Bom dia. O seu bilhete, por favor.
-
-Viajante: Aqui está.
-
-Revisor: Desculpe, este lugar é o 14B. O seu é o 16A.
-
-Viajante: Ah, sim? Desculpe! Onde é o 16A?
-
-Revisor: É ali, junto à janela.
-
-Viajante: Obrigada. O comboio pára em Coimbra?
-
-Revisor: Sim, pára. É a próxima paragem.
-
-Viajante: Está bem, obrigada.
-
-Revisor: De nada.
+Revisor: Bom dia. O seu bilhete, por favor.  
+Viajante: Aqui está.  
+Revisor: Desculpe, este lugar é o 14B. O seu é o 16A.  
+Viajante: Ah, sim? Desculpe! Onde é o 16A?  
+Revisor: É ali, junto à janela.  
+Viajante: Obrigada. **Desculpe, que horas são?**  
+Revisor: **São nove e meia.**  
+Viajante: O comboio pára em Coimbra?  
+Revisor: Sim, pára. É a próxima paragem.  
+Viajante: **A que horas chega a Coimbra?**  
+Revisor: **Chega às dez horas.**  
+Viajante: Está bem. Obrigada.  
+Revisor: De nada. Boa viagem!
 
 ### 💬 Tradução – 日本語訳
 
