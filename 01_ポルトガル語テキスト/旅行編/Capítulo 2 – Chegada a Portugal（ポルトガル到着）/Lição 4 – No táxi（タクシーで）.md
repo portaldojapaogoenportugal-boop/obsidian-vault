@@ -1,4 +1,4 @@
-﻿### 🗣️ Diálogo – 会話例
+### 🗣️ Diálogo – 会話例
 
 <table>
 <thead>
@@ -27,12 +27,12 @@
 
 ### 🔑 Expressões importantes – よく使う表現
 
-|**ポルトガル語**|**発音**|**カタカナ**|**日本語訳**|**英語訳**|
-|---|---|---|---|---|
-|**Para o Hotel Solar, por favor.**|ˈpara u oˈtel soˈlar pur faˈvor|パラ・ウ・オテル・ソラール、プル・ファヴォール|ホテル・ソラールまでお願いします|To Hotel Solar, please.|
-|**É perto da estação.**|e ˈpertu da istaˈsãw|エ・ペルトゥ・ダ・イスタサォン|駅の近くです|It’s near the station.|
-|**Demora vinte minutos.**|dəˈmoɾa ˈvĩti miˈnutuʃ|ドゥモーラ・ヴィンティ・ミヌトゥシュ|20分かかります|It takes twenty minutes.|
-|**Quanto é?**|ˈkwãtu e|クアントゥ・エ|いくらですか？|How much is it?|
+| **ポルトガル語**                         | **発音**                          | **カタカナ**                | **日本語訳**         | **英語訳**                  |
+| ---------------------------------- | ------------------------------- | ----------------------- | ---------------- | ------------------------ |
+| **Para o Hotel Solar, por favor.** | ˈpara u oˈtel soˈlar pur faˈvor | パラ・ウ・オテル・ソラール、プル・ファヴォール | ホテル・ソラールまでお願いします | To Hotel Solar, please.  |
+| **É perto da estação.**            | e ˈpertu da istaˈsãw            | エ・ペルトゥ・ダ・イスタサォン         | 駅の近くです           | It’s near the station.   |
+| **Demora vinte minutos.**          | dəˈmoɾa ˈvĩti miˈnutuʃ          | ドゥモーラ・ヴィンティ・ミヌトゥシュ      | 20分かかります         | It takes twenty minutes. |
+| **Quanto é?**                      | ˈkwãtu e                        | クアントゥ・エ                 | いくらですか？          | How much is it?          |
 
 ### 🧩 Ponto de gramática – 文法ポイント
 

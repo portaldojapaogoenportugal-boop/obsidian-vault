@@ -1,24 +1,19 @@
 ### 🗣️ Diálogo – 会話例
 
-<table>
-<thead>
-<tr><th></th><th>ポルトガル語</th><th>日本語訳</th><th>英語訳</th></tr>
-</thead>
-<tbody>
-<tr><td>旅行者</td><td><strong>Bom dia.</strong><br><strong>Um bilhete para o Porto, por favor.</strong></td><td>おはようございます。<br>ポルト行きの切符を1枚お願いします。</td><td>Good morning.<br>One ticket to Porto, please.</td></tr>
-<tr><td>係員</td><td><strong>Só de ida ou de ida e volta?</strong></td><td>片道ですか？往復ですか？</td><td>One-way or return?</td></tr>
-<tr><td>旅行者</td><td><strong>De ida e volta, por favor.</strong></td><td>往復でお願いします。</td><td>Return, please.</td></tr>
-<tr><td>係員</td><td><strong>Para hoje?</strong></td><td>今日の分ですか？</td><td>For today?</td></tr>
-<tr><td>旅行者</td><td><strong>Sim, para esta tarde.</strong></td><td>はい、今日の午後です。</td><td>Yes, for this afternoon.</td></tr>
-<tr><td>係員</td><td><strong>Quer o comboio das três da tarde?</strong></td><td>午後3時の電車にしますか？</td><td>The train at three p.m.?</td></tr>
-<tr><td>旅行者</td><td><strong>Sim, das três, por favor.</strong></td><td>はい、3時の電車でお願いします。</td><td>Yes, the one at three, please.</td></tr>
-<tr><td>係員</td><td><strong>Muito bem.</strong><br><strong>São vinte e cinco euros.</strong></td><td>かしこまりました。<br>25ユーロです。</td><td>All right.<br>That’s twenty-five euros.</td></tr>
-<tr><td>旅行者</td><td><strong>Aqui está.</strong><br><strong>Obrigada.</strong></td><td>どうぞ。<br>ありがとうございます。</td><td>Here you are.<br>Thank you.</td></tr>
-<tr><td>係員</td><td><strong>Obrigado.</strong><br><strong>Boa viagem!</strong></td><td>ありがとうございます。<br>よい旅を！</td><td>Thank you.<br>Have a nice trip!</td></tr>
-<tr><td>旅行者</td><td><strong>Obrigada.</strong></td><td>ありがとうございます。</td><td>Thank you.</td></tr>
-</tbody>
-</table>
-
+|     | **ポルトガル語**                                              | **日本語訳**                         | **英語訳**                                       | **注** |
+| --- | ------------------------------------------------------- | -------------------------------- | --------------------------------------------- | ----- |
+| 旅行者 | **Bom dia.**<br>**Um bilhete para o Porto, por favor.** | おはようございます。<br>ポルト行きの切符を1枚お願いします。 | Good morning.<br>One ticket to Porto, please. |       |
+| 係員  | **Só de ida ou de ida e volta?**                        | 片道ですか？往復ですか？                     | One-way or return?                            | (1)   |
+| 旅行者 | **De ida e volta, por favor.**                          | 往復でお願いします。                       | Return, please.                               |       |
+| 係員  | **Para hoje?**                                          | 今日の分ですか？                         | For today?                                    |       |
+| 旅行者 | **Sim, para esta tarde.**                               | はい、今日の午後です。                      | Yes, for this afternoon.                      |       |
+| 係員  | **Quer o comboio das três da tarde?**                   | 午後3時の電車にしますか？                    | The train at three p.m.?                      |       |
+| 旅行者 | **Sim, das três, por favor.**                           | はい、3時の電車でお願いします。                 | Yes, the one at three, please.                |       |
+| 係員  | **Muito bem.**<br>**São vinte e cinco euros.**          | かしこまりました。<br>25ユーロです。            | All right.<br>That’s twenty-five euros.       |       |
+| 旅行者 | **Aqui está.**<br>**Obrigada.**                         | どうぞ。<br>ありがとうございます。              | Here you are.<br>Thank you.                   |       |
+| 係員  | **Obrigado.**<br>**Boa viagem!**                        | ありがとうございます。<br>よい旅を！             | Thank you.<br>Have a nice trip!               |       |
+| 旅行者 | **Obrigada.**                                           | ありがとうございます。                      | Thank you.                                    |       |
+(1) 
 ### Vocabulário – 新しい語彙
 
 | **ポルトガル語**  | **発音**  | **カタカナ** | **日本語訳** | **英語訳**   |
