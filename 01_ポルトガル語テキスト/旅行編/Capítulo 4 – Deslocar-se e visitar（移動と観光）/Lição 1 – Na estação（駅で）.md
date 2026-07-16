@@ -7,13 +7,14 @@
 | 旅行者 | **De ida e volta, por favor.**                          | 往復でお願いします。                       | Return, please.                               |       |
 | 係員  | **Para hoje?**                                          | 今日の分ですか？                         | For today?                                    |       |
 | 旅行者 | **Sim, para esta tarde.**                               | はい、今日の午後です。                      | Yes, for this afternoon.                      |       |
-| 係員  | **Quer o comboio das três da tarde?**                   | 午後3時の電車にしますか？                    | The train at three p.m.?                      |       |
+| 係員  | **Quer o comboio das três da tarde?**                   | 午後3時の電車にしますか？                    | Do you want the train at three p.m.?          | (2)   |
 | 旅行者 | **Sim, das três, por favor.**                           | はい、3時の電車でお願いします。                 | Yes, the one at three, please.                |       |
 | 係員  | **Muito bem.**<br>**São vinte e cinco euros.**          | かしこまりました。<br>25ユーロです。            | All right.<br>That’s twenty-five euros.       |       |
 | 旅行者 | **Aqui está.**<br>**Obrigada.**                         | どうぞ。<br>ありがとうございます。              | Here you are.<br>Thank you.                   |       |
 | 係員  | **Obrigado.**<br>**Boa viagem!**                        | ありがとうございます。<br>よい旅を！             | Thank you.<br>Have a nice trip!               |       |
 | 旅行者 | **Obrigada.**                                           | ありがとうございます。                      | Thank you.                                    |       |
 (1) ida（片道）やida e volta（往復）の前に前置詞deがあるのは、deの前にあるべき名詞bilhete（切符）が省略されているから。名詞修飾のdeについては、第2章第3課2参照。
+(2) 時間については第4章第2課でとりあつか
 
 ### Vocabulário – 新しい語彙
 
@@ -45,27 +46,14 @@
 | **ポルトガル語**                             | **日本語**          |     |
 | -------------------------------------- | ---------------- | --- |
 | Dois bilhetes para amanhã, por favor.  | 明日分の切符を2枚お願いします。 |     |
-| Um quarto para uma noite, por favor.   | 一泊で一部屋お願いします。    |     |
-| Uma mesa para duas pessoas, por favor. | 2人用のテーブルをお願いします。 |     |
+| Um quarto para uma noite, por favor.   | 一泊で一部屋お願いします。    | (1) |
+| Uma mesa para duas pessoas, por favor. | 2人用のテーブルをお願いします。 | (2) |
+(1) noite（名詞）は夜を意味し、泊数を数えるのにも使われる。
+(2) レストランの予約時の定型表現。pessoaは人を意味し、人数を数えるのにも使われる。
 
 や切符の種類、時刻などを尋ねたり答えたりする表現がよく使われます。ここでは、その代表的な表現を確認します。
 
-1️⃣ 疑問詞 para onde / até onde
 
-・Para onde vai o comboio?（電車はどこへ行きますか？）
-
-・Até onde quer ir?（どこまで行きたいですか？）
-
-💬 para は方向・目的地を表す。
-
-2️⃣ 動詞 ir（行く）
-
-| **Pessoa** | **Forma** | **Exemplo**                 |
-| ---------- | --------- | --------------------------- |
-| Eu         | vou       | Vou para o Porto.（ポルトへ行きます） |
-| Ele / Ela  | vai       | Vai para Lisboa.（リスボンへ行きます） |
-
-💡 ir + para + 地名 → 「〜へ行く」。
 
 3️⃣ 名詞 bilhete（切符）
 
