@@ -13,7 +13,7 @@
 | 旅行者 | **Aqui está.**<br>**Obrigada.**                         | どうぞ。<br>ありがとうございます。              | Here you are.<br>Thank you.                   |       |
 | 係員  | **Obrigado.**<br>**Boa viagem!**                        | ありがとうございます。<br>よい旅を！             | Thank you.<br>Have a nice trip!               |       |
 | 旅行者 | **Obrigada.**                                           | ありがとうございます。                      | Thank you.                                    |       |
-(1) 
+(1) ida（片道）やida e volta（往復）の前に前置詞deがあるのは、deの前にあるべき名詞bilhete（切符）が省略されているから。
 ### Vocabulário – 新しい語彙
 
 | **ポルトガル語**  | **発音**  | **カタカナ** | **日本語訳** | **英語訳**   |
