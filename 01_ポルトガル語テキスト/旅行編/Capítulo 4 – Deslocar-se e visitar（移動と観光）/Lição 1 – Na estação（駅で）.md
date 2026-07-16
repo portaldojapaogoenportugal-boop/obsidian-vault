@@ -8,13 +8,13 @@
 | 係員  | **Para hoje?**                                          | 今日の分ですか？                         | For today?                                    |       |
 | 旅行者 | **Sim, para esta tarde.**                               | はい、今日の午後です。                      | Yes, for this afternoon.                      |       |
 | 係員  | **Quer o comboio das três da tarde?**                   | 午後3時の電車にしますか？                    | Do you want the train at three p.m.?          | (2)   |
-| 旅行者 | **Sim, das três, por favor.**                           | はい、3時の電車でお願いします。                 | Yes, the one at three, please.                |       |
+| 旅行者 | **Sim, das três, por favor.**                           | はい、3時の電車でお願いします。                 | Yes, the one at three, please.                | (2)   |
 | 係員  | **Muito bem.**<br>**São vinte e cinco euros.**          | かしこまりました。<br>25ユーロです。            | All right.<br>That’s twenty-five euros.       |       |
 | 旅行者 | **Aqui está.**<br>**Obrigada.**                         | どうぞ。<br>ありがとうございます。              | Here you are.<br>Thank you.                   |       |
 | 係員  | **Obrigado.**<br>**Boa viagem!**                        | ありがとうございます。<br>よい旅を！             | Thank you.<br>Have a nice trip!               |       |
 | 旅行者 | **Obrigada.**                                           | ありがとうございます。                      | Thank you.                                    |       |
 (1) ida（片道）やida e volta（往復）の前に前置詞deがあるのは、deの前にあるべき名詞bilhete（切符）が省略されているから。名詞修飾のdeについては、第2章第3課2参照。
-(2) 時間については第4章第2課でとりあつか
+(2) 時間を表す場合、時間の前には前置詞a(s)がつく。ここでは、「3時の（de as três→das três）」を表す。時間については第4章第2課で取り扱う。
 
 ### Vocabulário – 新しい語彙
 
@@ -51,20 +51,11 @@
 (1) noite（名詞）は夜を意味し、泊数を数えるのにも使われる。
 (2) レストランの予約時の定型表現。pessoaは人を意味し、人数を数えるのにも使われる。
 
-や切符の種類、時刻などを尋ねたり答えたりする表現がよく使われます。ここでは、その代表的な表現を確認します。
 
+#### 2. 値段の言い方
 
+シンプルに値段を言う場合は、ser動詞う
 
-3️⃣ 名詞 bilhete（切符）
-
-| **Expressão**              | **Tradução** |
-| --------------------------- | ------------ |
-| um bilhete de ida           | 片道切符         |
-| um bilhete de ida e volta   | 往復切符         |
-
-4️⃣ 数字と時刻表現
-
-・das três = 「3時の」
 
 
 ### ✈️ Pratique!（練習してみよう）
