@@ -13,7 +13,8 @@
 | 旅行者 | **Aqui está.**<br>**Obrigada.**                         | どうぞ。<br>ありがとうございます。              | Here you are.<br>Thank you.                   |       |
 | 係員  | **Obrigado.**<br>**Boa viagem!**                        | ありがとうございます。<br>よい旅を！             | Thank you.<br>Have a nice trip!               |       |
 | 旅行者 | **Obrigada.**                                           | ありがとうございます。                      | Thank you.                                    |       |
-(1) ida（片道）やida e volta（往復）の前に前置詞deがあるのは、deの前にあるべき名詞bilhete（切符）が省略されているから。
+(1) ida（片道）やida e volta（往復）の前に前置詞deがあるのは、deの前にあるべき名詞bilhete（切符）が省略されているから。名詞修飾のdeについては、第2章第3課2参照。
+
 ### Vocabulário – 新しい語彙
 
 | **ポルトガル語**  | **発音**  | **カタカナ** | **日本語訳** | **英語訳**   |
@@ -31,8 +32,6 @@
 | **Português**                       | **日本語**            | **English**                  |
 | ----------------------------------- | ------------------ | ---------------------------- |
 | Um bilhete para o Porto, por favor. | ポルト行きの切符を1枚お願いします。 | One ticket to Porto, please. |
-| Só de ida ou de ida e volta?        | 片道ですか？往復ですか？       | One-way or return?           |
-| Para hoje?                          | 今日の分ですか？           | For today?                   |
 | Quer o comboio das três?            | 3時の電車にしますか？        | The train at three o’clock?  |
 | São vinte e cinco euros.            | 25ユーロです。           | That’s twenty-five euros.    |
 | Boa viagem!                         | よい旅を！              | Have a nice trip!            |
@@ -41,7 +40,9 @@
 
 #### 1. 前置詞paraの用法
 
-駅では、行き先（どこまで行きたいか）や切符の種類、時刻などを尋ねたり答えたりする表現がよく使われます。ここでは、その代表的な表現を確認します。
+行き先（どこまで行きたいか）
+
+や切符の種類、時刻などを尋ねたり答えたりする表現がよく使われます。ここでは、その代表的な表現を確認します。
 
 1️⃣ 疑問詞 para onde / até onde
 
