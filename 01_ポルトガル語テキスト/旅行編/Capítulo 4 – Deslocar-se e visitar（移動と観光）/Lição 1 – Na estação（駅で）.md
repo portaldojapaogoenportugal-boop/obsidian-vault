@@ -29,7 +29,7 @@
 
 ### 🔑 Expressões importantes – よく使う表現
 
-| **Português**                       | **日本語**            | **English**                  |
+| **ポルトガル語**                          | **日本語**            | **English**                  |
 | ----------------------------------- | ------------------ | ---------------------------- |
 | Um bilhete para o Porto, por favor. | ポルト行きの切符を1枚お願いします。 | One ticket to Porto, please. |
 | Quer o comboio das três?            | 3時の電車にしますか？        | The train at three o’clock?  |
@@ -41,6 +41,12 @@
 #### 1. 前置詞paraの用法
 
 行き先（どこまで行きたいか）の前に付加するparaについては、第2章第4課で学習しました。ここでは、目的や用途を表すために使われるparaの用法について確認していきましょう。
+
+| **ポルトガル語**                             | **日本語**          |     |
+| -------------------------------------- | ---------------- | --- |
+| Dois bilhetes para amanhã, por favor.  | 明日分の切符を2枚お願いします。 |     |
+| Um quarto para uma noite, por favor.   | 一泊で一部屋お願いします。    |     |
+| Uma mesa para duas pessoas, por favor. | 2人用のテーブルをお願いします。 |     |
 
 や切符の種類、時刻などを尋ねたり答えたりする表現がよく使われます。ここでは、その代表的な表現を確認します。
 
