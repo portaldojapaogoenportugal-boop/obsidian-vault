@@ -1,20 +1,20 @@
 ### 🗣️ Diálogo – 会話例
 
-|     | **ポルトガル語**                                          | **日本語訳**                       | **英語訳**                                           | **注** |
-| --- | ---------------------------------------------------- | ------------------------------ | -------------------------------------------------- | --- |
-| 車掌  | **Bom dia.**<br>**O seu bilhete, por favor.**         | おはようございます。<br>切符をお願いします。       | Good morning.<br>Your ticket, please.               |     |
-| 旅行者 | **Aqui está.**                                        | どうぞ。                            | Here you are.                                       |     |
-| 車掌  | **Desculpe, este lugar é o 14B.**<br>**O seu é o 16A.** | すみませんが、この席は14Bです。<br>お客様の席は16Aです。 | Excuse me, this seat is 14B.<br>Yours is 16A.       |     |
-| 旅行者 | **Ah, sim? Desculpe!**<br>**Onde é o 16A?**            | あ、そうですか？すみません！<br>16Aはどこですか？    | Oh, really? Sorry!<br>Where is 16A?                 |     |
-| 車掌  | **É ali, junto à janela.**                            | あちらです。窓のそばです。                   | It’s there, next to the window.                     |     |
-| 旅行者 | **Obrigada.**<br>**Desculpe, que horas são?**          | ありがとうございます。<br>すみません、今何時ですか？   | Thank you.<br>Excuse me, what time is it?           | (1) |
-| 車掌  | **São nove e meia.**                                  | 9時半です。                          | It’s half past nine.                                | (2) |
-| 旅行者 | **O comboio pára em Coimbra?**                        | この電車はコインブラに止まりますか？              | Does the train stop in Coimbra?                     | (3) |
-| 車掌  | **Sim, pára.**<br>**É a próxima paragem.**             | はい、止まります。<br>次の停車駅です。           | Yes, it does.<br>It’s the next stop.                | (3) |
-| 旅行者 | **A que horas chega a Coimbra?**                      | コインブラには何時に着きますか？                | What time does it arrive in Coimbra?                | (4) |
-| 車掌  | **Chega às dez horas.**                               | 10時に着きます。                       | It arrives at ten o’clock.                          | (4) |
-| 旅行者 | **Está bem. Obrigada.**                               | わかりました。ありがとうございます。              | All right, thank you.                               |     |
-| 車掌  | **De nada. Boa viagem!**                              | どういたしまして。よい旅を！                  | You’re welcome. Have a nice trip!                   |     |
+|     | **ポルトガル語**                                              | **日本語訳**                          | **英語訳**                                       | **注** |
+| --- | ------------------------------------------------------- | --------------------------------- | --------------------------------------------- | ----- |
+| 車掌  | **Bom dia.**<br>**O seu bilhete, por favor.**           | おはようございます。<br>切符をお願いします。          | Good morning.<br>Your ticket, please.         |       |
+| 旅行者 | **Aqui está.**                                          | どうぞ。                              | Here you are.                                 |       |
+| 車掌  | **Desculpe, este lugar é o 14B.**<br>**O seu é o 16A.** | すみませんが、この席は14Bです。<br>お客様の席は16Aです。 | Excuse me, this seat is 14B.<br>Yours is 16A. |       |
+| 旅行者 | **Ah, sim? Desculpe!**<br>**Onde é o 16A?**             | あ、そうですか？すみません！<br>16Aはどこですか？      | Oh, really? Sorry!<br>Where is 16A?           |       |
+| 車掌  | **É ali, junto à janela.**                              | あちらです。窓のそばです。                     | It’s there, next to the window.               |       |
+| 旅行者 | **Obrigada.**<br>**Desculpe, que horas são?**           | ありがとうございます。<br>すみません、今何時ですか？      | Thank you.<br>Excuse me, what time is it?     | (1)   |
+| 車掌  | **São nove e meia.**                                    | 9時半です。                            | It’s half past nine.                          | (2)   |
+| 旅行者 | **O comboio pára em Coimbra?**                          | この電車はコインブラに止まりますか？                | Does the train stop in Coimbra?               | (3)   |
+| 車掌  | **Sim, pára.**<br>**É a próxima paragem.**              | はい、止まります。<br>次の停車駅です。             | Yes, it does.<br>It’s the next stop.          | (3)   |
+| 旅行者 | **A que horas chega a Coimbra?**                        | コインブラには何時に着きますか？                  | What time does it arrive in Coimbra?          | (4)   |
+| 車掌  | **Chega às dez horas.**                                 | 10時に着きます。                         | It arrives at ten o’clock.                    | (4)   |
+| 旅行者 | **Está bem. Obrigada.**                                 | わかりました。ありがとうございます。                | All right, thank you.                         |       |
+| 車掌  | **De nada. Boa viagem!**                                | どういたしまして。よい旅を！                    | You’re welcome. Have a nice trip!             |       |
 
 (1) 「que horas são？」は時刻を尋ねる決まり文句。直訳すると「何時ですか」。
 (2) 「meia」は「半分」を意味し、時刻表現で「〜時半」を表す（nove e meia＝9時半）。
