@@ -4,13 +4,20 @@
   "title": "Organize Japanese honorific language notes",
   "titleGenerationStatus": "success",
   "createdAt": 1779101981545,
-  "updatedAt": 1779438051662,
-  "lastResponseAt": 1779438045807,
-  "sessionId": "f5279dd8-df2e-4104-98c1-811c5d36e030",
+  "lastActivityAt": 1779438045807,
+  "sessionId": null,
   "providerState": {
-    "providerSessionId": "f5279dd8-df2e-4104-98c1-811c5d36e030"
+    "previousProviderSessionIds": [
+      "f5279dd8-df2e-4104-98c1-811c5d36e030"
+    ]
   },
-  "currentNote": "02_日本語授業/日本語文法/敬語ー尊敬語の分類.md",
+  "modelRecoverySource": {
+    "sessionId": "f5279dd8-df2e-4104-98c1-811c5d36e030",
+    "providerState": {
+      "providerSessionId": "f5279dd8-df2e-4104-98c1-811c5d36e030"
+    }
+  },
+  "linkedContentPath": "02_日本語授業/日本語文法/敬語ー尊敬語の分類.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 3,

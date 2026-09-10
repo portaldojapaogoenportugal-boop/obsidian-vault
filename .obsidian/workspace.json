@@ -663,7 +663,18 @@
             "type": "leaf",
             "state": {
               "type": "claudian-view",
-              "state": {},
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1779438926601-z8mxr43",
+                      "conversationId": "conv-1779438973274-8qztxb03s"
+                    }
+                  ],
+                  "activeTabId": "tab-1779438926601-z8mxr43"
+                }
+              },
               "icon": "bot",
               "title": "Claudian"
             }
