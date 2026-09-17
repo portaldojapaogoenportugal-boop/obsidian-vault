@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1779438973274-8qztxb03s",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789633654449-kl6zix7",
+      "userTurnOrdinal": 20,
+      "state": "accepted",
+      "localMessageId": "msg-1789633654422-qhji3sm",
+      "timestamp": 1789633654422,
+      "rawDisplayText": "obsidian://open?vault=obsidian&file=02_%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%8E%88%E6%A5%AD%2F%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E6%B3%95%2F%E6%95%AC%E8%AA%9E%E3%83%BC%E5%B0%8A%E6%95%AC%E8%AA%9E%E3%81%AE%E5%88%86%E9%A1%9E\n尊敬語、丁寧語、謙譲語などキーワードに欧州ポルトガル語を追記してください",
+      "canonicalText": "obsidian://open?vault=obsidian&file=02_%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%8E%88%E6%A5%AD%2F%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E6%B3%95%2F%E6%95%AC%E8%AA%9E%E3%83%BC%E5%B0%8A%E6%95%AC%E8%AA%9E%E3%81%AE%E5%88%86%E9%A1%9E\n尊敬語、丁寧語、謙譲語などキーワードに欧州ポルトガル語を追記してください",
+      "images": [],
+      "contentDigest": "5f9f0555fdc53caea3bb94f9a210a7b93e574449caa3883291116a1eabfa2e69",
+      "providerUserMessageId": "d58cc18a-f814-42a6-8b7a-c422aade7f77"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789633739125-j8d5t17",
+      "userTurnOrdinal": 21,
+      "state": "accepted",
+      "localMessageId": "msg-1789633739114-gwvwpj3",
+      "timestamp": 1789633739114,
+      "rawDisplayText": "どういう意味ですか？",
+      "canonicalText": "どういう意味ですか？",
+      "images": [],
+      "contentDigest": "9f91b9099e6530feae0aad2eeefea42c06264e1af775613ff6b315d6a3636d78",
+      "providerUserMessageId": "a3efa1f7-4b9e-433a-ac19-90d80060441d"
+    }
+  ]
+}
