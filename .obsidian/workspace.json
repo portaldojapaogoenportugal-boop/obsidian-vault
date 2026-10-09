@@ -662,21 +662,10 @@
             "id": "d943bba129296c5c",
             "type": "leaf",
             "state": {
-              "type": "claudian-view",
-              "state": {
-                "tabWorkspace": {
-                  "version": 1,
-                  "openTabs": [
-                    {
-                      "tabId": "tab-1779438926601-z8mxr43",
-                      "conversationId": "conv-1779438973274-8qztxb03s"
-                    }
-                  ],
-                  "activeTabId": "tab-1779438926601-z8mxr43"
-                }
-              },
-              "icon": "bot",
-              "title": "Claudian"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
         ],
