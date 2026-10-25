@@ -60,8 +60,8 @@
 | --------------------- | -------- | --- |
 | É um euros.           | 1ユーロです。  |     |
 | São cem ienes.        | 100円です。  | (1) |
-| São trinta dólares.   | 30ドルです。  |     |
-| São cinquenta libras. | 50ポンドです。 |     |
+| São trinta dólares.   | 30ドルです。  | (2) |
+| São cinquenta libras. | 50ポンドです。 | (3) |
 (1) 円の単数形はiene
 (2) ドルの単数形はdólar
 (3) ポンドの単数形はlibra

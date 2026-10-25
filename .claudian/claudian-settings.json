@@ -102,7 +102,8 @@
           "reasoningMetadataResolved": true,
           "supportedEffortLevels": []
         }
-      ]
+      ],
+      "sessionEnvironmentHash": "runtime-input:v1:ebc4ebc6ad9f613efdcf6ec714d83795d5000ef0a5a8d9955baf5dbec8f4fa98"
     },
     "codex": {
       "enabled": false,
@@ -121,7 +122,8 @@
       "enableUltraEffort": false,
       "responseStyle": "pragmatic",
       "responseVerbosity": "default",
-      "selectedModels": []
+      "selectedModels": [],
+      "sessionEnvironmentHash": ""
     },
     "opencode": {
       "cliPath": "",
@@ -143,6 +145,7 @@
       "environmentVariables": "",
       "modelAliases": {},
       "preferredThinkingByModel": {},
+      "sessionEnvironmentHash": "",
       "visibleModels": [],
       "selectedModels": []
     },
@@ -176,6 +179,7 @@
     "providerId": "claude",
     "model": "sonnet"
   },
+  "inlineEditModel": null,
   "savedProviderModel": {
     "claude": "sonnet"
   },
@@ -190,6 +194,7 @@
   "enableAutoScroll": true,
   "showMessageTimestamps": false,
   "deferMathRenderingDuringStreaming": true,
+  "pluginRenderedFenceLanguages": [],
   "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
   "enableZenMode": true,
@@ -200,6 +205,7 @@
   "skillsSynced": false,
   "sessionManagerOrganization": "list",
   "sessionManagerSort": "last-updated",
+  "projectSort": "last-updated",
   "sessionAutoArchiveAfter": "off",
   "pinnedLinkedContentPaths": [],
   "hiddenCommands": [],
