@@ -103,7 +103,9 @@
           "supportedEffortLevels": []
         }
       ],
-      "sessionEnvironmentHash": "runtime-input:v1:ebc4ebc6ad9f613efdcf6ec714d83795d5000ef0a5a8d9955baf5dbec8f4fa98"
+      "sessionEnvironmentHash": "runtime-input:v1:ebc4ebc6ad9f613efdcf6ec714d83795d5000ef0a5a8d9955baf5dbec8f4fa98",
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {}
     },
     "codex": {
       "enabled": false,
@@ -135,9 +137,13 @@
       "preferredThinkingByModel": {},
       "thinkingOptionsByModel": {},
       "visibleModels": [],
-      "selectedModels": []
+      "selectedModels": [],
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {}
     },
     "pi": {
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
       "cliPath": "",
       "cliPathsByHost": {},
       "enabled": false,
@@ -150,6 +156,9 @@
       "selectedModels": []
     },
     "grok": {
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
+      "sessionEnvironmentHash": "",
       "cliPath": "",
       "cliPathsByHost": {},
       "enabled": false,
@@ -171,7 +180,21 @@
       "visibleModels": [],
       "modelAliases": {},
       "preferredReasoningByModel": {},
-      "selectedModels": []
+      "selectedModels": [],
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {}
+    },
+    "antigravity": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredReasoningByModel": {},
+      "sessionStoreHash": "",
+      "visibleModels": [],
+      "selectedModelsByHost": {}
     }
   },
   "settingsProvider": "claude",
@@ -205,7 +228,6 @@
   "skillsSynced": false,
   "sessionManagerOrganization": "list",
   "sessionManagerSort": "last-updated",
-  "projectSort": "last-updated",
   "sessionAutoArchiveAfter": "off",
   "pinnedLinkedContentPaths": [],
   "hiddenCommands": [],
